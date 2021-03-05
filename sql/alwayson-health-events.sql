@@ -1,0 +1,1 @@
+SELECT * FROM sys.dm_xe_objects WHERE name LIKE '%hadr%'

@@ -1,0 +1,2 @@
+SELECT replica_server_name, availability_mode_desc, failover_mode_desc
+from sys.availability_replicas
